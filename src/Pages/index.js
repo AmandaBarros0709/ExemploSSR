@@ -1,6 +1,6 @@
 import Button from '../components/Button'
 
-
+//renderizando no servidor a função
 function HomePage() {
     return (
     <>
